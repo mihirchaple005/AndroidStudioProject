@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Notable</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_note">Add Note</string>
+    <string name="hello_user_manage_your_notes_now">Your ideas deserve a home. Start noting!</string>
+    <string name="add_note_now">Add note now</string>
+    <string name="note">Note</string>
+    <string name="title">Title</string>
+    <string name="save">Save</string>
+    <string name="delete_note">Delete Note</string>
+</resources>
